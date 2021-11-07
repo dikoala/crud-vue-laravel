@@ -6,26 +6,28 @@
 
 4) git checkout main (if not in main yet)
 
-5) Run composer install
+5) Open terminal
 
-6) Run composer update
+6) Run composer install
 
-7) Run php artisan key:generate
+7) Run composer update
 
-8) Run php artisan migrate
+8) Run php artisan key:generate
 
-9) Run php artisan storage:link (to create a symlink for uploaded cover photos)
+9) Run php artisan migrate
 
-10) Run php artisan serve (To run as server api)
+10) Run php artisan storage:link (to create a symlink for uploaded cover photos)
 
-11) Open another terminal
+11) Run php artisan serve (To run as server api)
 
-12) cd crud-vue-laravel
+12) Open another terminal
 
-13) cd client
+13) cd crud-vue-laravel
 
-14) npm i
+14) cd client
 
-15) npm run serve (Client Interface)
+15) npm i
 
-16) Browse to http://localhost:8080/
+16) npm run serve (Client Interface)
+
+17) Browse to http://localhost:8080/
